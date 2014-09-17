@@ -1,0 +1,16 @@
+C:\Users\Toshıba\Desktop\bitirme projesi\WindowsFormsApplication10\WindowsFormsApplication10\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\Toshıba\Desktop\bitirme projesi\WindowsFormsApplication10\WindowsFormsApplication10\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\Toshıba\Desktop\bitirme projesi\WindowsFormsApplication10\WindowsFormsApplication10\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\Toshıba\Desktop\bitirme projesi\Çevirmen\Çevirmen\Çevirmen\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\Toshıba\Desktop\bitirme projesi\Çevirmen\Çevirmen\Çevirmen\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\Toshıba\Desktop\bitirme projesi\Çevirmen\Çevirmen\Çevirmen\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\Toshıba\Desktop\bitirme projesi\Çevirmen\Çevirmen\Çevirmen\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Toshıba\Desktop\bitirme projesi\Çevirmen\Çevirmen\Çevirmen\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Toshıba\Desktop\bitirme projesi\Çevirmen\Çevirmen\Çevirmen\WindowsFormsApplication10\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Toshıba\Desktop\bitirme projesi\Çevirmen\Çevirmen\Çevirmen\WindowsFormsApplication10\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Toshıba\Desktop\bitirme projesi\Çevirmen\Çevirmen\Çevirmen\WindowsFormsApplication10\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Toshıba\Desktop\bitirme projesi\Çevirmen\Çevirmen\Çevirmen\WindowsFormsApplication10\obj\Debug\Çevirmen.csprojResolveAssemblyReference.cache
+C:\Users\Toshıba\Desktop\bitirme projesi\Çevirmen\Çevirmen\Çevirmen\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\Toshıba\Desktop\bitirme projesi\Çevirmen\Çevirmen\Çevirmen\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.PopUp.resources
+C:\Users\Toshıba\Desktop\bitirme projesi\Çevirmen\Çevirmen\Çevirmen\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Toshıba\Desktop\bitirme projesi\Çevirmen\Çevirmen\Çevirmen\WindowsFormsApplication10\obj\Debug\Çevirmen.csproj.GenerateResource.Cache
